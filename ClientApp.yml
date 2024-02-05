@@ -1,1 +1,2 @@
-welcome.message=this message from bitbucket properties file
+welcome:
+  message: this message from bitbucket properties file
